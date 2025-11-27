@@ -1,5 +1,4 @@
 # 🚤 Poente Solares - Telemetria Dashboard
-<hr>
 
 ## 📖 Sobre o Projeto
 Este é o painel de telemetria frontend desenvolvido para o **Barco Solar Poente**, do **Projeto Solares.**
